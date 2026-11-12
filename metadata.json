@@ -1,0 +1,6 @@
+{
+  "name": "和风天气",
+  "description": "基于Material Design 3设计规范的和风天气Android应用，支持城市搜索、定位所在城市、实时天气、24小时逐时预报与未来天气。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
